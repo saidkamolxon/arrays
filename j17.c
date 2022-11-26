@@ -1,6 +1,4 @@
-/*J18:
-
-J17:
+/*J17:
 
 nta elementdan iborat int seriya berilgan va ushbu seriyada oxirgi manfiy elementdan keyin kelgan sonlarni va ko'paytmasini chiqaring.
 Input: n=10 array[]={1,-2,3,4,-5,6,-7,8,9,10}
